@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+ 
+}
+.name-highlight{
+    color: orange;
+}
+.top-banner{
+    height: 550px;
+    display: block;
+
+}
+.middel-banner{
+    height: 550px;
+    display: block;
+}
+.disciption{
+    width: 40%;
+    float: left;
+    margin-top: 5%;
+    margin-top: 5%;
+    padding-left: 2%;
+
+}
+.font-style{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+.disciption h4{
+    font-size: 20px;
+    margin: 40px 0px 20px 0px;
+}
+.disciption-img{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+
+    padding-left: 2%;
+
+}
+.disciption-img img{
+    width: 90%;
+    
+}
+.disciption img{
+    width: 90%;
+}
+.disciption-img h4{
+        font-size: 20px;
+        margin: 40px 0px 20px 0px;
+}
+
+
+.footer{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    
+    margin-left: 180px;
+}
+.div-1{
+    height: 100px;
+    width: 350px;
+    margin: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    padding: 20px;
+    float: left;
+}
+.div-1 h2{
+    margin-bottom: 15px;
+}
